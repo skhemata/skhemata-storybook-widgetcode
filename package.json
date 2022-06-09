@@ -1,7 +1,7 @@
 {
-  "name": "skhemata-storybook-widgetcode",
+  "name": "@skhemata/skhemata-storybook-widgetcode",
   "version": "1.2.0",
-  "description": "skhemata-storybook-widgetcode",
+  "description": "Skhemata Custom Storybook Addon. This addon provides widget code view functionality for storybook.",
   "keywords": [
     "skhemata-storybook-widgetcode",
     "storybook-addons"

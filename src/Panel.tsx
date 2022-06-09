@@ -10,7 +10,7 @@ interface PanelProps {
 
 export const Panel: React.FC<PanelProps> = (props) => {
   const paramData = useParameter<string>(PARAM_KEY, "");
-  console.log('paramData: ', paramData);
+  // console.log('paramData: ', paramData);
 
   return (
     <AddonPanel {...props}>
